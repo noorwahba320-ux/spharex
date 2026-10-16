@@ -1,0 +1,6 @@
+{
+  "name": "AstraSPHEREx - NASA Space Apps 2026 Team Experience",
+  "description": "Production-ready 3D interactive team experience, space command center, and engineering portfolio for NASA Space Apps Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
